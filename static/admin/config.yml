@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: timetoady/DGM3760blog
+  repo: timetoady/adam-of-blog
 
 media_folder: content/assets
 public_folder: ../assets
